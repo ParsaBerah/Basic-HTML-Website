@@ -1,7 +1,7 @@
 # Basic hmtl
 
 ## Description
-Simple html website, no style.۲
+Simple html website, no style.
 
 ## Installation
    ```bash
